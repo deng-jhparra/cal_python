@@ -1,0 +1,11 @@
+Licencia Python
+
+La Licencia Python (en inglés, Python License) es una licencia de software ya en desuso creada por la Corporación para las Iniciativas de Investigación (en inglés, Corporation for National Research Initiatives). Utilizada en las versiones 1.6 y 2.0 del lenguaje de programación Python, ambos liberados en el año 2000. La Licencia Python es similar a la Licencia BSD, pero aunque se trata de una Licencia de software libre, la forma que está redactada no la hace compatible con la GNU General Public License (GPL) que es utilizada por la mayoría de los proyectos incluyendo el kernel Linux. Por esta razón CNRI retiró la licencia en el 2001, a favor de la Python Software Foundation License.
+
+Origen
+
+Python fue creado por Guido van Rossum, los derechos de autor fueron para la compañía donde trabajaba, la Centrum Wiskunde & Informatica (CWI). En ese tiempo, Python se distribuyó bajo una variante compatible con GPL, la Notificación y Declaración de Permiso Histórico (en inglés, Historical Permission Notice and Disclaimer) .1​ La CNRI adquirió la propiedad de Python cuando van Rossum aun trabajaba allí, y luego de algunos años redacto una nueva licencia para el lenguaje.
+
+Modificaciones
+
+La Licencia Python incluye un apartado que establece que esa licencia se rige por la legislación de la Mancomunidad de Virginia, Estados Unidos, y bajo el punto de vista legal de la Free Software Foundation (FSF) incompatible con la GNU GPL. Esto limita a la comunidad de Python en la combinación de software liberados bajo esta licencia y otros liberados bajo la GPL. Por esta razón, debido a la alta utilidad del lenguaje la CNRI y la FSF/GNU entablaron diálogo para realizar modificaciones a la licencia. El resultado de las conversaciones derivó en la Licencia Python Software Foundation, la Licencia Python 1.6.1, que difiere de la 1.6 en algunas correcciones de errores menores y términos generales de la licencia.
