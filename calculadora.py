@@ -8,7 +8,10 @@ def multiplica (x,y):
    return x*y
 
 def divide (x,y):
-   return x/y
+   try:
+      return x/y
+   except ZeroDivisionError:
+      return 0
 
 
 print ('Calculadora Suma, Resta y Multiplicacion ')
@@ -28,6 +31,7 @@ elif operador == 'M':
    simbolo = ' * '
 elif operador == 'D':
    valor = divide (numero_1,numero_2)
+   Error = (1 - valor) == 1
    simbolo = ' / '
 else:
    Error = True
@@ -35,4 +39,4 @@ else:
 if Error is False:
    print (str(numero_1) + simbolo +  str(numero_2) + ' = ' + str(valor))
 else:
-   print('Error al seleccinar el operador')
+   print('Error al seleccinar el operador o hubo una division por cero')
